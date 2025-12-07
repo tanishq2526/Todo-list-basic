@@ -1,0 +1,32 @@
+/* DARK THEME */
+.app.dark {
+    background: #233d4d;
+}
+
+.app.dark .container {
+    background: #2d495a;
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+.app.dark .title {
+    color: #ffffff;
+}
+
+.app.dark .input {
+    background: #1d3342;
+    color: white;
+    border: 1px solid #3e5a6c;
+}
+
+.app.dark .addBtn {
+    background: #fb5607;
+}
+
+.app.dark .todoItem {
+    background: #1d3342;
+    color: white;
+}
+
+.app.dark .todoText {
+    color: white;
+}
